@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-**Synopsis**
+##**Synopsis**
 An analysis of Kickstarter data was perfomed to uncover trends in crowdfunding campaigns with a special emphasis on theatrical plays. The objective was to provide budgetary guidance based on historical performance with crowdfunding donations, success and failiures both globally and within Great Britian and the United States.
 **Findings**
 **Average Donations**
