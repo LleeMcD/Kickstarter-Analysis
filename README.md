@@ -11,8 +11,12 @@ This analysis was performed to help an up and coming playright, who wants to sta
 ### Challenges and Difficulties Encountered
 
 ## Results
+Two conclusions that can be drawn about outcomes based on launch date are as follows:
+
+
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What can you conclude about the Oucomes based on Goals?
 
 - What are some limitations of this dataset?
 
