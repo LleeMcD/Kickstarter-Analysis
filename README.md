@@ -17,7 +17,7 @@ Some of the challenges with working with the Kickstarter data set were as follow
 - A separate Years column had to be created from the Date Created Conversion Column.
 
 ## Results
-Two conclusions that can be drawn about outcomes based on launch date are as that:
+Two conclusions that can be drawn about outcomes based on launch date are that:
 - The most successful campaigns were launched in May and June, with May have the most successes. This could be because expenses tend to be lower for countries in the Nothern hemisphere at this time due to Spring temperatures and or fewer competing priorities.
 - The least successful campaigns were lauched in December, which could be due to people having less money due to the costs of utilities such as heating in countries in the Northern hemisphere, or cooling for countries in the Southern hemisphere. In addition, people may be less interested in making donations during this time of year due to competing priorites with holidays and family gatherings. 
 
