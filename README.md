@@ -6,7 +6,7 @@ This analysis was performed to help an up and coming playright, who wants to sta
 ### Analysis of Outcomes Based on Launch Date
 An analysis of Kickstarter crowdfunding campaigns for theater results provided the following results
 
-![
+![Theater Outcomes vs Launch](https://github.com/LleeMcD/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
