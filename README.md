@@ -17,12 +17,12 @@ Some of the challenges with working with the Kickstarter data set were as follow
 - A separate Years column had to be created from the Date Created Conversion Column.
 
 ## Results
-Two conclusions that can be drawn about outcomes based on launch date are that:
-- The most successful campaigns were launched in May and June, with May have the most successes. This could be because expenses tend to be lower for countries in the Nothern hemisphere at this time due to Spring temperatures and or fewer competing priorities.
-- The least successful campaigns were lauched in December, which could be due to people having less money due to the costs of utilities such as heating in countries in the Northern hemisphere, or cooling for countries in the Southern hemisphere. In addition, people may be less interested in making donations during this time of year due to competing priorites with holidays and family gatherings. 
+Conclusions that can be drawn about outcomes based on launch date are that it would be advisable to launch a campaign in May or June and to avoid lauching a campaign in December. The rationale for these conclusions are as follows:
+- The most successful campaigns were launched in May and June, with May having the most successes. This could be because expenses tend to be lower for countries in the Nothern hemisphere at this time of the year due to temperate Spring temperatures and or fewer competing priorities.
+- The least successful campaigns were lauched in December, which could be due to people having less money due to the costs of utilities such as heating in countries in the Northern hemisphere, or cooling for countries in the Southern hemisphere. In addition, people may be less interested in making donations during this time of year due to competing priorites with holidays, religious observances and family gatherings. 
 
-Conclusions about outcomes based on goals are as follows:
-- The most successful campaigns had goals that were less than $1,000, with a total of 141 successful projects out of 186 followed closely by those with goals between $1,000 and $4,999 with a total of 388 successful projects out of 534.
+Conclusions that can be drawn about outcomes based on goals are that it would be advisalble to have a goal that is between $1,000 and $4,999 but additional analysis of measures of central tendency and spread are recommended to get more specific information. The rationale for these conclusions are as follows:
+- The most successful campaigns had goals that were less than $1,000; with a total of 141 successful projects out of 186 followed closely by those with goals between $1,000 and $4,999; with a total of 388 successful projects out of 534.
 - The least successful project had goals between $45,000 and $49,000 but this was for one campaign, which failed.
 - Campaigns with goals greater than $50,000 only had a success rate of 17%, but the two successful campaigns each had a goal of $100,000.
 
