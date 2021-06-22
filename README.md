@@ -7,7 +7,7 @@ This analysis was performed to help an up and coming playright, who wants to sta
 ![Theater Outcomes vs Launch](https://github.com/LleeMcD/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes vs Goals](https://github.com/LleeMcD/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png_
+![Outcomes vs Goals](https://github.com/LleeMcD/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
