@@ -26,6 +26,12 @@ Conclusions that can be drawn about outcomes based on goals are that it would be
 - The least successful project had goals between $45,000 and $49,000 but this was for one campaign, which failed.
 - Campaigns with goals greater than $50,000 only had a success rate of 17%, but the two successful campaigns each had a goal of $100,000.
 
+The limitations of the data set include that:
+- The data is only current through March of 2017.
+- Demographic information about the pledging individuals or entities is not included.
+- Formatting issuses as outlined in the Challenges and Difficulties section above. 
+- The campaign data is for one entity; Kickstarter.
+
 Additional tables and/or graphs could be created to analyze campaign outcomes based on any combination of the following elements:
 - The number of backers
 - The number staff picks
